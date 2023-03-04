@@ -1,0 +1,8 @@
+# Project exclude paths
+/news-edit-ms/target/
+/news-eureka/target/
+/news-mapper/target/
+/news-pojo/target/
+/news-query-ms/target/
+/news-web/target/
+/news-zuul/target/
